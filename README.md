@@ -1,0 +1,3 @@
+# Own Blockchain 
+### Needs
+- Redis
